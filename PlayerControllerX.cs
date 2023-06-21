@@ -17,7 +17,7 @@ public class PlayerControllerX : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        // get the user's vertical input
+        // get the user's vertical input, Vertical은 위, 아래
         verticalInput = Input.GetAxis("Vertical");
 
         // move the plane forward at a constant rate, forward = 0,0,1
