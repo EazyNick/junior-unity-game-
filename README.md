@@ -7,5 +7,6 @@
 차량 - 업데이트 함수를 사용, 상자와 부딪혔을때 반응하도록 Collider 설정, rigidbody 설정으로 중력 설정<br>
 카메라 - 위치설정 및 오브젝트 따라가게 설정<br>
 
-![Uploading image.png…]()
+![image](https://github.com/KimSungJun99/junior-unity-game-/assets/123717093/2654b2ec-a329-42ad-87ce-32108607f734)
+
 
